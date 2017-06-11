@@ -6,7 +6,7 @@ Technologies incorporated into application:
   -Handlebars
 
 
-This application will accept the type of burger you input
+This application will accept the type of burger you are lusting for and then you can devour it(virtually only)
 
 LINK:https://stark-island-22587.herokuapp.com/index
 
