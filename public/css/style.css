@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "Orotund";
-    src: url("../fonts/Orotund.ttf") format("truetype");
+    font-family: "Book Antiqua";Palatino, "Palatino Linotype", Georgia, serif;
+    
 }
 
 html {
@@ -10,22 +10,22 @@ html {
 
 body {
 	color: #0a52a5;
-	font-family: "Poppins", sans-serif;
+	font-family: "Book Antiqua";Palatino, "Palatino Linotype", Georgia, serif;
 }
 
 #title {
-	font-family: Orotund;
+	font-family: "Book Antiqua";Palatino, "Palatino Linotype", Georgia, serif;
 	font-size: 72px;
 	text-align: center;
 }
 
 .container {
-	background-color: transparent;
+	background-color:#4886a0;
 }
 
 #heading {
 	text-align: center;
-	background-color: #ff6225;
+	background-color:teal;
 	color: white;
 	margin: 0px;
 }
@@ -37,6 +37,7 @@ button:hover {
 
 #addBurger {
 	text-align: right;
+	
 	background-size: contain;
 	margin: 0px;
 }
